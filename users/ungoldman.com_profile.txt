@@ -1,0 +1,16 @@
+DID: did:plc:5xz67a2xrdfjjveb47oxdf27
+Username: Nate Goldman
+Profile description: old timey web dev, eldritch millennial
+
+now: public transit, software architecture, infrastructure, cats
+
+before: maps, open data, foss, civic tech, politics, pizza, philosophy, linguistics
+
+always: bikes, hikes, human rights
+
+he/him
+
+ungoldman.com
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

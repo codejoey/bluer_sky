@@ -1,0 +1,6 @@
+DID: did:plc:oajtxomomwvbm5vhvvagyogy
+Username: Mark Erikson
+Profile description: Redux maintainer, building time-travel devtools at Replay.io
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

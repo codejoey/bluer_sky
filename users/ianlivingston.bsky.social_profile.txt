@@ -1,0 +1,8 @@
+DID: did:plc:izhfbj6pve3oskf3pbz6b3vr
+Username: Ian Livingston
+Profile description: Extreme weather and climate reporter, Washington Post. Former Brookings foreign policy. #wx #dc #dogs #climatechange #python #gis 
+
+Article list: https://docs.google.com/spreadsheets/d/1ugk4j0qO0R47uMi8nk7ADwI8-6MzoFBlrYnqeez0RII/edit?usp=sha
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

@@ -1,0 +1,8 @@
+DID: did:plc:4n5sqh66xpvizuhn42rdfmfm
+Username: Davey Barker
+Profile description: Creative technologist in London.
+
+@bot.dvy.io is my experiment.
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

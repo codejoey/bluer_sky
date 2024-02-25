@@ -1,0 +1,8 @@
+DID: did:plc:vsgr3rwyckhiavgqzdcuzm6i
+Username: rob pike
+Profile description: Long career as a dilettante at Bell Labs Research and Google, mostly building weird stuff no one uses, but occasionally getting it right, such as with UTF-8 and Go.
+
+
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

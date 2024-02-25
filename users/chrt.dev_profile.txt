@@ -1,0 +1,8 @@
+DID: did:plc:iz3sdbqpmknh2jmlpvu7pe5z
+Username: Jon
+Profile description: A software developer who lives in the UK. Currently working for a cool company that builds software to optimize batteries attached to the national grid.
+
+Interested in programming, self-hosting, books, video games and generally being a nerd on the internet
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

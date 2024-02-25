@@ -1,0 +1,18 @@
+DID: did:plc:mdpndtkinvfaxtf64ubgftzs
+Username: Skeets
+Profile description: ...a 3rd party iOS / iPadOS Bluesky App
+
+Features:
+
+- Bookmarks
+- Drafts
+- Mute Words
+- Rich Push Notifications
+- Hashtags
+- Alt-Text Generator
+- Accessibility / VoiceOver Support
+
+Get it here: https://www.skeetsapp.com/
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 
