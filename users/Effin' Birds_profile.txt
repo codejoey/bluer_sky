@@ -1,8 +1,0 @@
-
-    DID: did:plc:xo32sqgvpykv4vp65l3jnupd
-    Username: Effin' Birds
-    Profile description: Daily comic by Aaron Reynolds that keeps on winning awards despite being nothing more than birds and curse words. Books, calendars and merch at effinbirds.com
-    Recent post 1: nan
-    Recent post 2: nan
-    Recent post 3: nan
-    

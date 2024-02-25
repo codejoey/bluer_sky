@@ -1,8 +1,0 @@
-
-    DID: did:plc:zwzdlsvtvlxnpuacwhmqmd22
-    Username: Machine Learning
-    Profile description: Interesting ML (machine learning) news, insights, learning opportunities, and more
-    Recent post 1: OpenAI Sora: A Closer Look! by Two Minute Papers
-    Recent post 2: I no longer would have to travel to locations. If I wanted to write a scene on the moon, it’s text, and this AI can generate it like nothing. If I wanted to have two people in the living room in the mountains, I don’t have to build a set in the mountains, I don’t have to put a set on my lot.
-    Recent post 3: We will go through an end-to-end example of a machine learning use case in Azure. We will discuss how to transform the data such that we can use it to train a model using Azure Synapse Analytics. Then we will train a model in Azure Machine Learning and score some test data with it.
-    

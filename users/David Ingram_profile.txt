@@ -1,8 +1,0 @@
-
-    DID: did:plc:n3av4233fye4rf7op7es66zr
-    Username: David Ingram
-    Profile description: Tech reporter at NBC News. I'm still calling these tweets. I block rude people. Read my latest work here: https://www.nbcnews.com/author/david-ingram-ncpn890161
-    Recent post 1: Oklahoma’s queer community mourns 16-year-old in state that leads the nation in anti-LGBTQ bills www.nbcnews.com/nbc-out/out-...
-    Recent post 2: Elon Musk used "soy" as an insult for the first time and got 25 million views
-    Recent post 3: New from me: Elon Musk quietly visited the White House in September, after years of saying Biden was giving him the cold shoulder: www.nbcnews.com/tech/tech-ne... (Biden wasn’t at the meeting, though, the White House confirms.)
-    
