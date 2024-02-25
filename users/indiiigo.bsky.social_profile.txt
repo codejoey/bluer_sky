@@ -2,7 +2,6 @@ DID: did:plc:my2gtm5f7q5wwijzu53d2mw3
 Username: Indira Sen
 Profile description: Computational Social Science PhD Student at RWTH, GESIS, she/her, formerly indiiigosky ---> indiiigo.bsky
 indiiigo.github.io/ 
-Recent post 1: @kwelle.bsky.social
-Recent post 2: what better way to finally become a bluesky non-lurker than advertising this workshop. I'll be discussing using Large Language Models like LLaMa for content analysis. YOu don't need any backgroun in NLP or LLMs to join!
-Recent post 3: what better way to finally become a bluesky non-lurker than advertising this workshop. I'll be discussing using Large Language Models like LLaMa for content analysis. YOu don't need any backgroun in NLP or LLMs to join!
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

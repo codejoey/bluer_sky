@@ -5,10 +5,6 @@ Profile description: The social media scheduler for content creators.
 Supporting Reddit, Twitter, Instagram, TikTok, Tumblr, Mastodon, and now Bluesky!
 
 Try it out at https://www.postpone.app/
-Recent post 1: What other improvements would you like to see us add to our Bluesky post scheduling and analytics integration? 👀🦋
-Recent post 2: What other improvements would you like to see us add to our Bluesky post scheduling and analytics integration? 👀🦋
-Recent post 3: Today's update includes some @bsky.app-specific improvements, too! 🦋
-
-1. Post previews now display what links will look like on Bluesky.
-2. Auto-repost and auto-remove settings are now visible on the Dashboard and History pages.
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

@@ -1,0 +1,10 @@
+DID: did:plc:cpqq74upxrrtv465ai7xj2zm
+Username: Psychedelic Cases Bot
+Profile description: Real-time updates on Psychedelic cases. Curated by Psychedelic Alpha and the Psychedelic Bar Association. Hosted by @free.law.
+
+Also at @psychedelic_cases@mastodon.social and @psy_cases on X.
+
+Details: https://bots.law/little-cases/psychedelic-cases-bots/
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

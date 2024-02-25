@@ -1,13 +1,6 @@
 DID: did:plc:z2gj4nkyndfvnaedvfnssm6k
 Username: Thomas Hanrath
 Profile description: #Astrophotography addicted #Blogger 🇪🇺 Sharing the invisible miracles of space. https://astrocamp.eu/en
-Recent post 1: Messier 44 – Beehive Cluster
-Messier 44 is an open star cluster in the constellation Cancer, containing about 50 stars visible to the naked eye and surrounded by a faint nebulosity.
-astrocamp.eu/en/beehive-c...
-#opencluster #M44 #Messier44 #BeehiveCluster
-Recent post 2: Caldwell 25 – Intergalactic Wanderer
-What is the origin of the name ‘Intergalactic Wanderer’ for the globular cluster NGC 2419, also known as Caldwell 25?
-astrocamp.eu/en/intergala...
-#GlobularCluster #C25 #Caldwell25 #IntergalacticWanderer #NGC2419
-Recent post 3: Astrophoto: Messier 37 – 01/24 astrocamp.eu/en/astrophot... A latecomer of the last starry nights in January. The beautiful open star cluster Messier 37. The full frame at 1800mm focal length looks very nice to me here. … #M37 #Melotte38 #Messier37 #NGC2099 #clearskies
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

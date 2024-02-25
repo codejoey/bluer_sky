@@ -1,7 +1,6 @@
 DID: did:plc:wfkzisn6oxetupnvxizitxgx
 Username: Nahel Belgherze
 Profile description: [back-up] Covering extreme weather events around the world. Also interested in climate dynamics, geohazards & satellite remote sensing.
-Recent post 1: The University of California, Los Angeles (UCLA) received more than a foot of rain in just 24 hours as a powerful Atmospheric River moved through the region. This rain rate has an Annual Exceedance Probability between 0.1% and 0.05%, or between a 1-in-1000 and 1-in-2000 year rain event.
+Recent post 1: 
 Recent post 2: 
 Recent post 3: 
-    

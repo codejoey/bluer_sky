@@ -1,0 +1,9 @@
+DID: did:plc:ipfgec67g5muxuv2b7h4mjfr
+Username: Stephen Granade
+Profile description: Science presenter, robotics researcher, fiction writer, interactive fiction person, award-winning Virgo. Co-editor of Small Wonders SFF magazine. they/he
+
+newsletter: https://buttondown.email/theinfodump/
+website: https://stephen.granades.com
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

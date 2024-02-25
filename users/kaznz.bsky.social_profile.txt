@@ -1,7 +1,6 @@
 DID: did:plc:6oxh4gnye2ycw7fycevmu5wj
 Username: Kaz
 Profile description: Geeky home body, DIY, love Wellington NZ and beaches anywhere. Usually contracting IT somewhere,  somehow. 
-Recent post 1: Or being watered down by the rain...
-Recent post 2: I hacked my way through the forest.. making my own path, a shortcut perhaps...
-Recent post 3: The worst traffic I have ever been in in Wellington.  1 hour Airport to city.
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

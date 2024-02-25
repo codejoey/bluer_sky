@@ -4,9 +4,6 @@ Profile description: programming and exclamation marks
 
 jvns.ca
 wizardzines.com
-Recent post 1: popular git config options jvns.ca/blog/2024/02...
-Recent post 2: this thing listjs.com
-Recent post 3: we've been slowly adding transcripts for all the comics at wizardzines.com/comics/, and I just added a search so that you can search the transcript! (try searching 'tcpdump'!)
-
-let me know if you run into any issues!
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

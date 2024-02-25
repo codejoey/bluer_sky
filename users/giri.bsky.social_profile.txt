@@ -1,7 +1,6 @@
 DID: did:plc:icrr64x2vbp6unvxbi2676na
 Username: Giri Sreenivas
 Profile description: nan
-Recent post 1: Hello, world!
+Recent post 1: 
 Recent post 2: 
 Recent post 3: 
-    

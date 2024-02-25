@@ -1,7 +1,6 @@
 DID: did:plc:faokv7nz2mngvvs67umkea3k
 Username: Eli Sugarman
 Profile description: Personal account. Trust and safety/philanthropy/cyber/tech policy. All views are my own and not those of my employer. Following and re-blueskying(?) =/= endorsement. 
-Recent post 1: Very excited about Columbia SIPA's new Trust and Safety Tooling Consortium focused on building a robust #opensource #trustandsafety ecosystem! Kudos to @camillefrancois.bsky.social for leading it and @dfrlab.bsky.social for inspiration: igp.sipa.columbia.edu/news/institu...
+Recent post 1: 
 Recent post 2: 
 Recent post 3: 
-    

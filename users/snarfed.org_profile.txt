@@ -1,7 +1,6 @@
 DID: did:plc:fdme4gb7mu7zrie7peay7tst
 Username: Ryan
 Profile description: https://snarfed.org
-Recent post 1: If they redirect to the same path (with query params) on fed.brid.gy, you're good!
-Recent post 2: Oh man, thank you! That's very generous. I've admired your work at Mozilla and on Rust and your writing for a long time, so that means a lot.
-Recent post 3: I think this is github.com/snarfed/brid... . Feel free to weigh in there!
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

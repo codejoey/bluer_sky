@@ -1,0 +1,17 @@
+DID: did:plc:iijrtk7ocored6zuziwmqq3c
+Username: Shinya Kato 🌮
+Profile description: 👋 I am:
+- Lucky Husband
+- Mixed Japanese
+- Programmer
+- #atdev
+
+💡Fun Facts:
+- Dart/Flutter & AT Protocol enthusiast
+- Founder of atprotodart.com
+- Collaborating with deck.blue
+- Maintaining @apod.shinyakato.dev
+- aka github.com/myConsciousness
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

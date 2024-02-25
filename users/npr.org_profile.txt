@@ -1,8 +1,6 @@
 DID: did:plc:ln72v57ivz2g46uqf4xxqiuh
 Username: NPR
 Profile description: This is NPR 🎙️
-Recent post 1: Cuban cabaret sensation Juana Bacallao died Saturday in her hometown of Havana, according to a statement on social media from Cuba's Ministry of Culture. She was 98 years old.
+Recent post 1: 
 Recent post 2: 
-BREAKING NEWS: Former President Donald Trump has won South Carolina's Republican presidential primary, according to a race call from the Associated Press.
-Recent post 3: In a video address to the nation, Putin took the moment to once again draw false comparisons between the Soviet victory over fascist Germany and his current invasion of Ukraine.
-    
+Recent post 3: 

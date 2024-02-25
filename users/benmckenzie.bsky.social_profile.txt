@@ -1,7 +1,6 @@
 DID: did:plc:eqkd2r3hrbgotsawtwqztnre
 Username: Ben McKenzie 
 Profile description: That actor that wrote that book on crypto. Pre-order at: ben-mckenzie.com 
-Recent post 1: Shocker
-Recent post 2: https://www.reuters.com/technology/crypto-giant-binance-controlled-independent-us-affiliates-bank-accounts-2023-06-05/
-Recent post 3: I feel this
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

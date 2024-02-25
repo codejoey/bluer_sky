@@ -1,7 +1,6 @@
 DID: did:plc:owfhgsvveoqpkyn4purvs73b
 Username: Steph Dick
 Profile description: Historian of math, computing, and the mind. Prof. of Communication at SFU. Co-editor of Abstractions and Embodiments. PhD from Harvard. Likes cats, blends teas, writes pysanky eggs, workin' on a comic book ✨
-Recent post 1: Here is the latest issue of BJHS Themes -- Histories of AI: A Genealogy of Power -- which developed out of our Mellon Sawyer Seminar. www.cambridge.org/core/journal...
+Recent post 1: 
 Recent post 2: 
 Recent post 3: 
-    

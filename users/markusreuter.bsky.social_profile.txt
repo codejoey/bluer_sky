@@ -1,7 +1,6 @@
 DID: did:plc:6siaudgvhbzp6ivbqprjrbke
 Username: Markus Reuter
 Profile description: Journalist bei netzpolitik.org | Schreibt und recherchiert u.a. zu Digitalpolitik | Überwachung | Zensur | Grund- und Freiheitsrechte | Soziale Bewegungen | Mastodon: https://chaos.social/@markusreuter 
-Recent post 1: Das BKA möchte bei der neuen Meldestelle für mutmaßliche Straftaten Hostinganbietern mehr Daten entlocken als diese eigentlich geben müssten. Bürgerrechtler sehen das ganze Verfahren als einen „Systembruch mit unabsehbaren Folgen“ für die Freiheitsrechte. netzpolitik.org/2024/neue-me...
-Recent post 2: Das BKA möchte bei der neuen Meldestelle für mutmaßliche Straftaten Hostinganbietern mehr Daten entlocken als diese eigentlich geben müssten. Bürgerrechtler sehen das ganze Verfahren als einen „Systembruch mit unabsehbaren Folgen“ für die Freiheitsrechte. netzpolitik.org/2024/neue-me...
-Recent post 3: Die Künstler:innen vom Zentrum für politische Schönheit  dürfen laut dem Berliner Landgericht kein Deep-Fake-Video des Bundeskanzlers mehr verbreiten. Die Künstlergruppe will sich dagegen wehren. netzpolitik.org/2024/kunst-a...
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

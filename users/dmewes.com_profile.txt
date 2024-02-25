@@ -1,0 +1,8 @@
+DID: did:plc:q4m2hzcs2wtpr4r75dq5a65u
+Username: Daniel Mewes
+Profile description: Computer scientist. Interested in technology, artificial and natural intelligence, emergent complexity, among other things. Blogging at amongai.com.
+
+Currently at Ambient.ai. Previously Stripe, RethinkDB.
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

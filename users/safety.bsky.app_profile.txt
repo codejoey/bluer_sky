@@ -5,7 +5,6 @@ Profile description: Sharing updates about trust and safety on Bluesky.
 This account’s mentions are not actively monitored. To report a post or account, use the in-app reporting feature.
 
 Community Guidelines: https://bsky.social/about/support/community-guidelines
-Recent post 1: Safety is core to social media. Transparency is essential to building trust in moderation efforts, and the data we are providing here is a first step towards full transparency reports. We hope this provides some visibility, and we intend to deliver more granular data and reporting in the future.
-Recent post 2: Safety is core to social media. Transparency is essential to building trust in moderation efforts, and the data we are providing here is a first step towards full transparency reports. We hope this provides some visibility, and we intend to deliver more granular data and reporting in the future.
-Recent post 3: Safety is core to social media. Transparency is essential to building trust in moderation efforts, and the data we are providing here is a first step towards full transparency reports. We hope this provides some visibility, and we intend to deliver more granular data and reporting in the future.
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

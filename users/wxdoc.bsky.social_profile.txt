@@ -1,7 +1,6 @@
 DID: did:plc:swtdxz634ahklllrdkmvykil
 Username:  wxdoc
 Profile description: Atmospheric scientist-Remote Sensing & Numerical Modeling. GEOINT/Space & Aviation 
-Recent post 1: Been debating…do I want to write an essay about the hype in hyperspectral images & rise in commercial satellites? 🤔(as I work on spectral Python codes)
-Recent post 2: Ok…it works! I played it & calico Lily began purring & is relaxing with eyes closed.
-Recent post 3: Orange or calico
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

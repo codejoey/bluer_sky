@@ -6,15 +6,6 @@ Views mine not my employer.
 
 Politics unfashionable since 1660
 
-Recent post 1: To extend my bad metaphor:
-
-It's worse than feedback at a wedding speech.  It's destroying all the sound the wedding couple will hear while they are married...
-
-Trashing common goods...
-Recent post 2: We are now using the Internet to train AI models.  But then using those same AI models to produce content from the Internet.  The using it to train models....
-
-It won't end well.
-Recent post 3: To explain this problem: 
-
-When you go to a wedding & someone giving a speech goes too close to the speaker with the microphone.  You get a horrible screeching sound.  That's data (input to microphone) being used to train model (sound from speakers into microphone, feeding back).
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

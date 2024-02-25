@@ -1,15 +1,6 @@
 DID: did:plc:zostr6uxfxxhuunaoy6yi6jc
 Username: Jason R.R. Martinez (FanGraphs/RosterResource)
 Profile description: RosterResource Content Manager at FanGraphs. Founder of MLBDepthCharts/RosterResource (February 2009).
-Recent post 1: Updated Pittsburgh Pirates payroll projection:
-
-•SP Mitch Keller agreed to 5-yr, $77MM contract extension (2024-28).
-
-Payroll: fangraphs.com/roster-resou...
-
-Keller was on track to become a free agent after 2025. He is now under contract thru his age-32 season.
-Recent post 2: Something I find interesting, whether it means anything or not, is a non-roster invitee with no MLB experience who is issued a number they might actually keep if/when they get to the majors. For the most part, anything under 60. Number 99 is also interesting if it's a pitcher who can throw 99 MPH.
-Recent post 3: I'm pretty much caught up on entering all jersey numbers for players in camp. Please let me know if you notice an error or can confirm a number that hasn't been reported. Jersey numbers can be viewed on the RosterResource roster/depth chart pages. 
-
-fangraphs.com/roster-resou...
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

@@ -2,13 +2,6 @@ DID: did:plc:2mrgzk6xlemfv6yugn644xxy
 Username: Dan Luu
 Profile description: Active on Mastodon: https://mastodon.social/@danluu. Also trying https://threads.net/@danluu.danluu
 
-Recent post 1: We're coming up on a decade since danluu.com/cpu-bugs/. Not only was the prediction valid for a decade, it looks like the next decade will be worse.
-
-Today's bug of the day: a significant fraction of high-end consumer CPUs crash if you run CPU-intensive workloads: www.radgametools.com/oodleintel.htm
-Recent post 2: Diseconomies of scale in fraud, spam, support, and moderation:
-
-danluu.com/diseconomies...
-Recent post 3: Macs seem to have this? The info tab for a file has a field called "Where from:" that has both the URL of the page I was on as well as the download URL.
-
-I only checked a few files, but they all have this.
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

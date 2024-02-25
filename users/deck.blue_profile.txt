@@ -7,7 +7,6 @@ Contact: hello@deck.blue
 Donate:
 https://patreon.com/deckblue
 https://ko-fi.com/deck_blue
-Recent post 1: You can use it as a PWA via Chrome but I'm studying how to do actual desktop versions for Windows and macOS
-Recent post 2: Is it not scrolling?
-Recent post 3: Try a force refresh with Shift/Ctrl+R/F5
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

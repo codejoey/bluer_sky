@@ -1,0 +1,9 @@
+DID: did:plc:xinso5nzzhsfncnr5rtsoqba
+Username: Expo
+Profile description: Develop, preview, submit, and update native apps from a single React codebase for Android, iOS, and web.
+
+Signup: https://expo.dev
+Discord: https://chat.expo.dev
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

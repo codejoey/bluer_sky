@@ -1,0 +1,9 @@
+DID: did:plc:uewxgchsjy4kmtu7dcxa77us
+Username: Bloomberg
+Profile description: The first word in business news. 
+Newsletters: http://bloom.bg/newsletters 
+Podcasts: http://bloom.bg/podcasts 
+The Big Take podcast: http://trib.al/jtoXfuT
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

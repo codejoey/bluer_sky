@@ -2,9 +2,6 @@ DID: did:plc:v5tbrzjssnf2u7pynhf6s4ev
 Username: Karissa Bell
 Profile description: Senior reporter 🗒️ for Engadget, covering social media and the growing 🌊 of Twitter alternatives. Say👋 at karissa.bell@engadget.com or on the 🐣 app.
 
-Recent post 1: Was randomly thinking about Myspace which made me wonder what ever happened to Tila Tequila and then I remembered that she turned out to be a raging Nazi and flat earther .. the Myspace era really was darker than we all thought huh
-Recent post 2: ah thanks for reading and welcome ☁️
-Recent post 3: There are some fledgling projects to build a "bridge" between Mastodon/bluesky.. very early and also very unclear how Threads would fit in given they are moving very slowly w/ AP integration as it is
-indieweb.social/@activitypub... 
-skybridge.fly.dev
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

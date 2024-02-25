@@ -1,7 +1,6 @@
 DID: did:plc:zcjm7u7i3vayixy673sgt4hj
 Username: Jani Koski
 Profile description: Päivisin UX ja AI konsultti, öisin unessa. Isä, puoliso, hapuileva lintuharrastaja, keskinkertainen luontokuvaaja ja tumpelo perinnerakentaja. Luonto, musiikki, kirjat, runot, taide ja elokuvat kiinnostavat. Sad songs make me happy. Hyvien puolella.
-Recent post 1: Anarkistin valinta!
-Recent post 2: Se on harvinaisen totta, ja osin siksi juuri vaikea!
-Recent post 3: Ei ihan helpoimmasta päästä!
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

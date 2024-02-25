@@ -3,7 +3,6 @@ Username: Bison
 Profile description: Sculpteur sur bois
 
 Boutique : https://bisonrimant.fr
-Recent post 1: Thank you !
-Recent post 2: Merci !
-Recent post 3: Cat
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

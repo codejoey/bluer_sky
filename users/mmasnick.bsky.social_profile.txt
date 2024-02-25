@@ -1,0 +1,6 @@
+DID: did:plc:cak4klqoj3bqgk5rj6b4f5do
+Username: Mike Masnick
+Profile description: Techdirt guy. Sometimes I write about protocols. Sometimes about social media, copyright, free speech, content moderation, civil liberties and stuff like that. Once wrote a paper that may have helped inspire this service: https://bit.ly/protocolnotplatform
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

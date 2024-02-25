@@ -1,0 +1,6 @@
+DID: did:plc:o32okshy54r5h2vlrjpz3aln
+Username: breaker (of bread)
+Profile description: WIP async python bsky client: https://github.com/jbn/psychonaut
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

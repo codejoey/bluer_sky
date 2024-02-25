@@ -1,7 +1,6 @@
 DID: did:plc:ra7ad7uczmaswzfdo6z6hwiu
 Username: Joseph Smarr
 Profile description: Chief Technology Officer at Triller. Former Principal Engineer at Google (NLP for Assistant, founding team for G+ and Photos). Former CTO of Plaxo.
-Recent post 1: My timeline right now is page after neverending page of @anildash.com responding about Prince songs. Very impressed at the depth and passion on display, but wondering about the algorithm's attention to diversity of voices. ;p Or maybe not enough others are posting yet so the algo just went #yolo?
-Recent post 2: I'd be there, sounds great!
-Recent post 3: Field trip!
-    
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 
