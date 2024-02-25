@@ -1,0 +1,31 @@
+DID: did:plc:7kznpkcquiphso7fxufi5dml
+Username: Jacob S. Zelko
+Profile description: 🤓: MS Applied Math @ NU; Trainee Affiliate @ Roux Inst; JuliaHealth Leader
+
+🔎: Health surveillance, applied cat. theory & open source/science
+
+📝: EN/ES/DE/AR/CZ
+
+🌐: Blog @ https://jacobzelko.com
+
+📹: Twitch @ https://www.twitch.tv/thecedarprince
+Recent post 1: Happy New Year! 🥳
+
+What does medical imaging, health equity, and dashboards have in common? Our monthly meeting this Thursday from 12 - 1 PM EST!
+
+If you are new to #julialang, health research 🛟 🩺 🧪, or open source, please join us!
+
+Details and Agenda: discourse.julialang.org/t/workgroup-...
+Recent post 2: Thinking about attending JuliaCon 2024? Have you ever wanted to submit something to present but don't know how to get started?
+
+Come to the Proposal-a-Thon to learn more about making a submission! 🤓 🧪
+
+Details: discourse.julialang.org/t/announcing...
+Recent post 3: A Julia 1.10 Christmas Day release, a beautiful Julia logo embroidery from a friend, and some snow in NY.
+
+All in all, a pretty fantastic holiday season.
+
+Here's to a great 2024 everyone!
+
+#julialang
+    

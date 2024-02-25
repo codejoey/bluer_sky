@@ -1,0 +1,15 @@
+DID: did:plc:oajtxomomwvbm5vhvvagyogy
+Username: Mark Erikson
+Profile description: Redux maintainer, building time-travel devtools at Replay.io
+Recent post 1: I'm not Dan, but I've maintained Redux since 2016 when Dan gave it to me :)
+
+I wrote a post that definitively answers the differences and use cases for Context and Redux:
+
+blog.isquaredsoftware.com/2021/01/cont...
+
+Redux itself is doing great! We just shipped RTK 2.0:
+
+github.com/reduxjs/redu...
+Recent post 2: 
+Recent post 3: 
+    

@@ -1,0 +1,9 @@
+DID: did:plc:rdujr5oibxa337zfiba7gkbr
+Username: Social Futures Lab
+Profile description: We are the Social Futures Lab at UW CSE! We are reimagining social and collaborative systems to empower people and improve society.
+
+https://social.cs.washington.edu/
+Recent post 1: Congrats to Leijie on his presentation on privacy considerations when reporting in E2EE platforms at #soups2023! Check out the paper here: https://arxiv.org/pdf/2306.10478.pdf
+Recent post 2: Social Futures Lab's first PhD graduate!!
+Recent post 3: Listen to @kjfeng.bsky.social talk about his work on social media feed curation using machine teaching at the Knight Institute workshop on Algorithmic Amplification and Society! He was on a panel "Empirical look at user behavior" moderated by Mor Naaman: https://www.youtube.com/watch?v=00pH6U_-s7g
+    

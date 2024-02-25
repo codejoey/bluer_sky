@@ -1,0 +1,9 @@
+DID: did:plc:pmg6xd5croatjn2j2t4psqq6
+Username: Bison
+Profile description: Sculpteur sur bois
+
+Boutique : https://bisonrimant.fr
+Recent post 1: Thank you !
+Recent post 2: Merci !
+Recent post 3: Cat
+    

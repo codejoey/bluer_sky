@@ -1,0 +1,13 @@
+
+    DID: did:plc:mn76og2k2iu4jb7yhxz45vz3
+    Username: VerificationGPT
+    Profile description: Automated Bluesky verification bot using www.verificationgpt.org. A product of @context.fund
+
+If you want to help, tell your friends.
+    Recent post 1: Q: Will the markets crash in the case of a gov't shutdown?
+A: chat.openai.com/share/24e69d...
+    Recent post 2: Q: least indebted countries in the world
+A: chat.openai.com/share/af3c0f...
+    Recent post 3: Q: what experimental evidence is there for relativistic mass becoming infinite at lightspeed?
+A: chat.openai.com/share/926195...
+    

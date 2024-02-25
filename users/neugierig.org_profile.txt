@@ -1,0 +1,16 @@
+DID: did:plc:daebqtf4tidvy2uqrqdg3gws
+Username: Evan Martin
+Profile description: https://neugierig.org
+Recent post 1: I stopped crossposting here because there didn't seem like there was much going on.  If you'd like to follow my posts I'm on Mastodon here: inuh.net/@evmar and I also crosspost new blog posts to Twitter.
+Recent post 2: New blog post: Emulating x86 on x64 on aarch64
+Emulating win32 on Mac using Apple's x64 emulator. https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html
+
+(sorry, forgot to crosspost this when I first posted it)
+Recent post 3: Saw this post about how median construction in some random town is now over 8k sqft.
+https://twitter.com/TheStalwart/status/1683492538030620673
+
+Browsed Zillow to verify, it's monsters like this
+https://www.zillow.com/homedetails/125-Laconia-St-Lexington-MA-02420/56493360_zpid/
+
+TEN bathrooms!
+    

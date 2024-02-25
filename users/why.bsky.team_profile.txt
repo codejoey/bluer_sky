@@ -1,0 +1,7 @@
+DID: did:plc:vpkhqolt662uhesyj6nxm7ys
+Username: Why
+Profile description: Technical advisor to @bluesky, first engineer at Protocol Labs. Wizard Utopian
+Recent post 1: I thought that part was already obvious
+Recent post 2: Paul shows up at like 6am on a Saturday scratching at the door and wants food
+Recent post 3: That said, people are free to run their apps against our servers, but we may tell you to run your own if the traffic gets too high
+    

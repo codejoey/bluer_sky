@@ -1,0 +1,13 @@
+DID: did:plc:rnbjzfx5i223srtxj5txsjjb
+Username: Paul Bürkner
+Profile description: Full Professor for Computational Statistics at TU Dortmund University
+
+Scientist | Statistician | Bayesian | Author of brms | Member of the Stan and BayesFlow development teams
+
+Website: https://paul-buerkner.github.io
+
+Opinions are my own
+Recent post 1: you can still read papers during model pre-training 😀
+Recent post 2: The title is: "Does Bayes have to be slow? A glimpse into amortized Bayesian inference" indeed new developments :-)
+Recent post 3: I will be a host at the Research Explorer Ruhr Event (www.research-academy-ruhr.de/programm/res...) where we invite talented postdocs for two weeks to join us in one of the Ruhr Cities in Western Germany. I am looking forward to your applications. If you have any questions, please reach out to me!
+    
