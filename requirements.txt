@@ -1,4 +1,4 @@
 pandas==2.2.1
-atproto==0.0.43
+atproto
 mljar-mercury==1.1.6
 greenlet==1.1.0
