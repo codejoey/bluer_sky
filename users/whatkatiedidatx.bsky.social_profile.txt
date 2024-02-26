@@ -1,6 +1,0 @@
-DID: did:plc:ccot2plpdaxigp4yhca7kqoj
-Username: nan
-Profile description: nan
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

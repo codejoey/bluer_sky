@@ -1,8 +1,0 @@
-DID: did:plc:o4leanhr6doxmo5fgp7u7rsm
-Username: Cognitive Science Society
-Profile description: Promoting Cognitive Science as a discipline and fostering scientific interchange among researchers in various areas.
-
-🌐 https://cognitivesciencesociety.org
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

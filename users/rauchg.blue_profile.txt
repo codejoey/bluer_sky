@@ -1,6 +1,0 @@
-DID: did:plc:t3ymiltqyv4x4bccr2dxyn2w
-Username: Guillermo Rauch
-Profile description: @vercel.com
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,7 +1,0 @@
-DID: did:plc:wpudugmcw4iyhlyghkvylhjv
-Username: Jeff Johnson
-Profile description: Longtime indie developer of StopTheMadness and other software for Mac and iOS. You may remember me from the Mac OCSP appocalypse.
-https://lapcatsoftware.com/
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,8 +1,0 @@
-DID: did:plc:dztegzw5hfpz2k3ci6iliru6
-Username: c't magazin
-Profile description: Aktuelles aus der IT, Hardware- und Software-Tests, Know-how und Praxistipps.
-
-heise.de/ct/Impressum & heise.de/privacy
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

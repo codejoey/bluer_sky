@@ -1,6 +1,0 @@
-DID: did:plc:d7cjoi4hka7uyksysozd3nar
-Username: Voynich API
-Profile description: Pave an easier road for those who come after🛣️
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

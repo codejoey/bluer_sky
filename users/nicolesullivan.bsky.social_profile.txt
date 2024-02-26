@@ -1,8 +1,0 @@
-DID: did:plc:ogvr6bniroiguypjgnedto3g
-Username: Nicole Sullivan
-Profile description: Product Manager for Web UI on Chrome. OOCSS, CSSLint, Smush It, Dr Frankenstyle, typeOmatic. CSSConf founder, author, speaker🌈 she/her
-
-@stubbornella on Twitter 
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

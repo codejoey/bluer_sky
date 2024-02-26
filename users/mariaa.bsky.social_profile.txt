@@ -1,6 +1,0 @@
-DID: did:plc:y32vdst3y7r4f4pkrveb7jhi
-Username: Maria Antoniak
-Profile description: Postdoc at Allen Institute for AI working on NLP, cultural analytics, and healthcare, PhD from Cornell, political views/opinions my own. https://maria-antoniak.github.io/
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

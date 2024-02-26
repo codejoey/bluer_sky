@@ -1,8 +1,0 @@
-DID: did:plc:nvfposmpmhegtyvhbs75s3pw
-Username: b-boy bouiebaisse
-Profile description: My name is Jamelle Bouie. Columnist for the New York Times Opinion section. Co-host of the Unclear and Present Danger podcast. National program director of the CHUM Group.
-
-Email: jamelle.bouie@nytimes.com
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

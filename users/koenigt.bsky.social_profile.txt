@@ -1,9 +1,0 @@
-DID: did:plc:rqhgz5sn2eppjcev7eda5flk
-Username: Tim König
-Profile description: Political Theory and Data Science, EPINetz Project http://epinetz.de, University of Hildesheim
-
-https://github.com/TimBMK
-
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

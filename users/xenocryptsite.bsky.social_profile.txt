@@ -1,6 +1,0 @@
-DID: did:plc:cx3k44advnqcygknepkymdvx
-Username: Xenocrypt
-Profile description: Politics, math, culture, whatever.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

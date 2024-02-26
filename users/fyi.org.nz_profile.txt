@@ -1,6 +1,0 @@
-DID: did:plc:5gvtyipdqjsivis3v4zgtqlo
-Username: FYI.org.nz
-Profile description: We help you request official information from public agencies in Aotearoa New Zealand, and publish it online. Search past requests or send one yourself at https://fyi.org.nz/
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

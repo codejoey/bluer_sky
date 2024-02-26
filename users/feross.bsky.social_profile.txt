@@ -1,6 +1,0 @@
-DID: did:plc:mxdqvruhze7qxiessj6isga2
-Username: Feross
-Profile description: 🧙‍♂️ Mad scientist • ✨ Founder + CEO @SocketSecurity (http://socket.dev) •🌲 Stanford lecturer (http://cs253.stanford.edu) • ❤️ Open source at @WebTorrentApp + @StandardJS
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

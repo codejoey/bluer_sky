@@ -1,7 +1,0 @@
-DID: did:plc:tec2yqfylskq2czrpplfch6t
-Username: wilf
-Profile description: that wilf guy from twitter
-www.twitter.com/friendlykitties
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

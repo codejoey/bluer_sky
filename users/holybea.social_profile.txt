@@ -1,8 +1,0 @@
-DID: did:plc:hiptcrt4k63szzz4ty3dhwcp
-Username: ほりべあ
-Profile description: にゅーいやーずまーちだねえ🌈🌈🌈🌈🌈🌈
-Developing TOKIMEKI Bluesky (Third-party Bluesky web client):
-https://tokimeki.blue
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

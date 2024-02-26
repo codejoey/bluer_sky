@@ -1,7 +1,0 @@
-DID: did:plc:qxk3xqoptsd4wwovtauginqj
-Username: kum
-Profile description: Twitter: https://twitter.com/yskum
-Misskey: https://mk.b-guild.net/@hoshita
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

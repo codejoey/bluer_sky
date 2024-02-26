@@ -1,9 +1,0 @@
-DID: did:plc:gtxtfvtnonggxztgt6qkk3us
-Username: Amelia McNamara
-Profile description: Associate professor of statistics and data science at the University of St Thomas. Into data visualization and reproducible research, obsessed with R. pronoun.is/she 
-
-website: amelia.mn
-mastodon: @vis.social/@amelia 
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

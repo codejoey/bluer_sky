@@ -1,8 +1,0 @@
-DID: did:plc:vpkktsjfsoy5grmkbilbroqb
-Username: Toby Sanchez
-Profile description: Enterprise Applications, ☁️ Migration/Ops/Modernization, Social Justice, Platform Engineering, High Performance Compute/Telemetry, Renewable Energy, VLSI/Electrical Engineering, Mac, Linux, On prem-to-K8s Migrations, Azure
-
-https://pinboard.in/u:snafubar
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,6 +1,0 @@
-DID: did:plc:4w3lx5jmokfvihilz2q562ev
-Username: Laurie Voss
-Profile description: VP Developer Relations at LlamaIndex. Previously: Data scientist at Netlify, co-founded npm, awe.sm, started lgbtq.technology. Married to @jovo.design. He/him. Also @seldo@alpaca.gold on mastodon
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

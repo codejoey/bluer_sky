@@ -1,8 +1,0 @@
-DID: did:plc:lr364txc7acfqkkbcublz275
-Username: evan
-Profile description: i help make azure / fabric @microsoft.com. i live in seattle. go away
-
-dms: https://signal.me/#eu/GL5tHY-bixA0DYqSnxdnUod3YaCOSascFnwP2aTt-LRi4iIlNmJEaKOCupMasmU0
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

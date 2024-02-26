@@ -1,6 +1,0 @@
-DID: did:plc:jcxsdkqgigasp4zh367xbowl
-Username: Winston Underwood
-Profile description: Dad || Marketing Data Science Leader || Radically data driven || @ColoradoStateU '22 || @OhioState '18
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

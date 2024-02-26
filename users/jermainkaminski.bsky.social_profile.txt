@@ -1,6 +1,0 @@
-DID: did:plc:rgnp6fy4bwef4rmhnc6cvxis
-Username: Jermain Kaminski
-Profile description: Assistant Professor in Entrepreneurship & Innovation 🇳🇱 Maastricht University. Writing about entrepreneurs and (causal) machine learning. UWH, RWTH, MIT. Co-Founder http://causalscience.org, Team @AOM_TIM.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

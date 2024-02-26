@@ -1,8 +1,0 @@
-DID: did:plc:k35pylpq4ibvqsliej7k4f6v
-Username: alastair rushworth
-Profile description: ⚙️🛠️ ML, data & stats hacker.  python and a bit of #rstats.  
-👨‍💻 https://github.com/alastairrushworth
-👾 blaze.email
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

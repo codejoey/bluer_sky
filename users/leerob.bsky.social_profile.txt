@@ -1,6 +1,0 @@
-DID: did:plc:x75asat4imwgrlyanb3xzvcn
-Username: Lee Robinson
-Profile description: Building @vercel.com
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

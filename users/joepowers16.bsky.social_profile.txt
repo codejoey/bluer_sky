@@ -1,6 +1,0 @@
-DID: did:plc:stq7n7zw3zhk5xlktaxdgv22
-Username: Joe Powers
-Profile description: Behavioral Data Scientist interested in experimentation, causal inference, and workflow.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

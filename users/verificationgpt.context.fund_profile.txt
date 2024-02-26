@@ -1,8 +1,0 @@
-DID: did:plc:mn76og2k2iu4jb7yhxz45vz3
-Username: VerificationGPT
-Profile description: Automated Bluesky verification bot using www.verificationgpt.org. A product of @context.fund
-
-If you want to help, tell your friends.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,9 +1,0 @@
-DID: did:plc:z6olleryp4avyckffcqboz4k
-Username: jin
-Profile description: Art + Sci: VR/AR | Web | Crypto | FOSS
-
-projects: https://github.com/madjin
-notes: https://hackmd.io/@xr/book
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

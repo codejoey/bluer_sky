@@ -1,9 +1,0 @@
-DID: did:plc:y3aetugm4qbvcc76mclt7mn7
-Username: The Glaze Project
-Profile description: Official Glaze project Bsky account.
-Glaze @ University of Chicago
-https://glaze.cs.uchicago.edu
-https://webglaze.cs.uchicago.edu
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,6 +1,0 @@
-DID: did:plc:fdme4gb7mu7zrie7peay7tst
-Username: Ryan
-Profile description: https://snarfed.org
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

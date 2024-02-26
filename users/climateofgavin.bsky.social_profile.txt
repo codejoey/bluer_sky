@@ -1,6 +1,0 @@
-DID: did:plc:qrw2fun5ahsqvx73k5geleme
-Username: Gavin Schmidt
-Profile description: Climate scientist, juggler. Bikes etc. Blogging at https://www.realclimate.org - data visualization and debunking.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

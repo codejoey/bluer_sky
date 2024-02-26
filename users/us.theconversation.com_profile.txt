@@ -1,8 +1,0 @@
-DID: did:plc:s24o3i2gmddihekekk6tu6ac
-Username: The Conversation U.S.
-Profile description: A nonprofit news organization dedicated to sharing the knowledge of experts with the public, in accessible, trustworthy articles drawing on their research.  
-
-Free to read, without paywalls or ads.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

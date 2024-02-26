@@ -1,6 +1,0 @@
-DID: did:plc:tovhrfml47r6u4idaitaxefk
-Username: Signal
-Profile description: Signal is an end-to-end encrypted messaging app. Privacy isn’t an optional mode, it’s just the way that Signal works. Every message, every call, every time.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

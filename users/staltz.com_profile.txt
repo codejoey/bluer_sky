@@ -1,6 +1,0 @@
-DID: did:plc:rr6cusu65nxkp4p3qb4cj5bt
-Username: André Staltz
-Profile description: Creator of Manyverse and Cycle.js, building a decentralized and demonetized social network.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

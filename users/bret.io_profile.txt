@@ -1,8 +1,0 @@
-DID: did:plc:x37liwax4fxotpumelqu4pmu
-Username: Bret
-Profile description: bret.io
-@breadcrum.net
-
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

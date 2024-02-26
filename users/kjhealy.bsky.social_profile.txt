@@ -1,8 +1,0 @@
-DID: did:plc:myqic77tkmdhmaufgkvj43hr
-Username: Kieran Healy
-Profile description: Professor of Sociology at Duke University. 
-https://kieranhealy.org / 
-https://theordinalsociety.com
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,9 +1,0 @@
-DID: did:plc:yazbevg3wkzp5llnzb44tqgh
-Username: The Kyiv Independent
-Profile description: Independent English-language journalism in Ukraine
-
-Become a member: http://kyivindependent.com/membership/
-One-time donation: https://kyivindependent.com/membership/?interval=onetime
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

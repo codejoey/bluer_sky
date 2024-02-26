@@ -1,8 +1,0 @@
-DID: did:plc:id3vw7znfibv5pwn5p2v6vkh
-Username: Muhammad Arslan
-Profile description: Full-stack software engineer with over 10+ years of experience. 
-
-I love building stuff and designing UI/UX. 
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

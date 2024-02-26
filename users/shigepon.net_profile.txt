@@ -1,9 +1,0 @@
-DID: did:plc:64aqvld6on6kzrejzqha4w6j
-Username: shigepon7@puffball
-Profile description: 自宅k8sでフィードジェネレータ動かしてます
-サイコロ https://bsky.app/profile/did:plc:64aqvld6on6kzrejzqha4w6j/feed/dice
-ゲームブックは自作シナリオを公開したりもできます
-https://scenario.shigepon.net/
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,9 +1,0 @@
-DID: did:plc:szqkta6rffzaa773yayvf2fh
-Username: mailbox.org
-Profile description: Sichere E-Mail, Cloud-Speicher, Office & Videokonferenz aus Deutschland.
-FAQ: http://kb.mailbox.org
-Support: http://userforum.mailbox.org, http://help.mailbox.org
-Status: http://status.mailbox.org
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

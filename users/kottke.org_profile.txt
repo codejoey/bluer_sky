@@ -1,6 +1,0 @@
-DID: did:plc:vaba7tf7ylt2kaavf4t2kotp
-Username: kottke.org
-Profile description: home of fine hypertext products since 1998. https://kottke.org
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

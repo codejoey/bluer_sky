@@ -1,9 +1,0 @@
-DID: did:plc:odo2zkpujsgcxtz7ph24djkj
-Username: redsolver
-Profile description: Developer, working on content-addressed storage/routing networks (https://sfive.net), custom feeds for Bluesky (@skyfeed.app) and other cool open-source stuff!
-
-Matrix: @red:y4y.me
-Email: bsky@redsolver.net
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

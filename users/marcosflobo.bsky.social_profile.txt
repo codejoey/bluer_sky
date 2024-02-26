@@ -1,6 +1,0 @@
-DID: did:plc:j7batrrvhasnqxjieqv2kigp
-Username: Marcos F. Lobo
-Profile description: Tech Lead at Nexthink, former @cern. 📰The Optimist Engineer https://optimistengineer.substack.com.🎙️Host @cloudnativeast Science is the answer. Opinions are my own
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

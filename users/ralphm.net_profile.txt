@@ -1,6 +1,0 @@
-DID: did:plc:cik6hwyflv6zgi5s5wqk5fgl
-Username: Ralph Meijer
-Profile description: Software engineer, drummer, dad. Real-time, federated communication. Chair at XMPP Standards Foundation. VP of Technology at Netdata.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

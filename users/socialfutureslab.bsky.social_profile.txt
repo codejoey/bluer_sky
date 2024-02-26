@@ -1,8 +1,0 @@
-DID: did:plc:rdujr5oibxa337zfiba7gkbr
-Username: Social Futures Lab
-Profile description: We are the Social Futures Lab at UW CSE! We are reimagining social and collaborative systems to empower people and improve society.
-
-https://social.cs.washington.edu/
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

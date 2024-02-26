@@ -1,8 +1,0 @@
-DID: did:plc:256l2xxvw5djc2x5icb7ldgp
-Username: Idiot/Savant
-Profile description: New Zealand's liberal blog. 
-@norightturnnz@mastodon.social
-That PGP key expired a long time ago
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,6 +1,0 @@
-DID: did:plc:m66cg4v7pqjye6pctamp3in2
-Username: Dr. John, Doe
-Profile description: El Doctor.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

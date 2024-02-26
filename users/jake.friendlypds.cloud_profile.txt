@@ -1,6 +1,0 @@
-DID: did:plc:3bym5aztwrmykznybaoysj2i
-Username: Federated Jake
-Profile description: I am like @jacob.gold but with more federation added in. This version of myself is freer and more inclined toward being sooo randoooooom.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

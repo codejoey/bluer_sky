@@ -1,6 +1,0 @@
-DID: did:plc:x2p6i7jmdhk4xj2ej3rflp7a
-Username: Michael Pratt
-Profile description: Hacking on the Go runtime and gVisor. 🏳️‍🌈
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

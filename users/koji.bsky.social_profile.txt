@@ -1,6 +1,0 @@
-DID: did:plc:kry6wypklcb2skeq3beexdf7
-Username: koji
-Profile description: Web designer/Python coder/translator/AI enthusiast based in Tokyo, Japan. Originally from London, UK. Translator for Bluesky’s first-ever meetup in Japan.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

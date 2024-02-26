@@ -1,8 +1,0 @@
-DID: did:plc:7r5c5jhtphcpkg3y55xu2y64
-Username: dietrich
-Profile description: the web, browsers, IPFS and noodle soup https://metafluff.com
-
-he/him
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

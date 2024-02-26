@@ -1,6 +1,0 @@
-DID: did:plc:5cueys2e7fyc5p5oypzg6wnq
-Username: deckbluetest
-Profile description: This is deck.blue's alt test account; please follow the official one at @deck.blue!
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

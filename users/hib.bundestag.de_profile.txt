@@ -1,9 +1,0 @@
-DID: did:plc:wlt5cfk3enzw2iprvoyzytji
-Username: Heute im Bundestag
-Profile description: Meldungen aus den Ausschüssen des Deutschen Bundestages und über aktuelle parlamentarische Initiativen. 
-
-Parlamentsnachrichten: https://www.bundestag.de/hib
-Unsere Social-Media-Kanäle: https://www.bundestag.de/services/soziale_medien
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

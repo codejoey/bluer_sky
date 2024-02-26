@@ -1,6 +1,0 @@
-DID: did:plc:ovyajbnegrir2ddtwfhijiob
-Username: Pwnallthethings
-Profile description: Just thinking out loud. Mostly natsec, foreign policy, and cybersecurity, but sometimes other things too.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

@@ -1,8 +1,0 @@
-DID: did:plc:pkzt5mk76dc3fnd7w7l7veyr
-Username: 🇺🇦 Ingvar Stepanyan
-Profile description: WebAssembly engineer for hire. Ukrainian developer in the UK. OSS devtools, ex-Google Chrome, ex-Cloudflare. 
-
-Blog: https://rreverser.com/
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

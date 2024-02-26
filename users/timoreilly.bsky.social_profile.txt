@@ -1,6 +1,0 @@
-DID: did:plc:7sbbp3hriwrjemkstnbsjfv4
-Username: Tim O'Reilly 
-Profile description: Founder & CEO, O'Reilly Media. Doing my best to help good futures happen.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

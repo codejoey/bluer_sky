@@ -1,6 +1,0 @@
-DID: did:plc:zostr6uxfxxhuunaoy6yi6jc
-Username: Jason R.R. Martinez (FanGraphs/RosterResource)
-Profile description: RosterResource Content Manager at FanGraphs. Founder of MLBDepthCharts/RosterResource (February 2009).
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

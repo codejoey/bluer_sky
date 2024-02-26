@@ -1,7 +1,0 @@
-DID: did:plc:xnzy5ycs7ppdgtv2iwhgykfc
-Username: chantastic
-Profile description: https://youtube.com/@chantastic
-
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

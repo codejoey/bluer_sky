@@ -1,8 +1,0 @@
-DID: did:plc:lr36xv2l64jwtnyoaqem6z2z
-Username: Electronic Frontier Foundation
-Profile description: We're the Electronic Frontier Foundation. We defend your civil liberties in a digital world. 
-
-https://eff.org
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

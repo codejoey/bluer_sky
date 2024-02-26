@@ -1,6 +1,0 @@
-DID: did:plc:e5hclqe7vknq2nl4hwcmr6ce
-Username: Anna Migas
-Profile description: Lead UI Developer at Field Intelligence and public speaker. Google Developer Expert in web technologies. I am all about web performance and tech conferences.
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 

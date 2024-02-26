@@ -1,8 +1,0 @@
-DID: did:plc:hxjt4arn4jpbe6gi6mdinkm4
-Username: Paul Smaldino
-Profile description: Paradigmatically promiscuous scientist. Modeler. Professor at UC Merced and the Santa Fe Institute.
-Web: https://smaldino.com/wp/ 
-Mastodon: @psmaldino@qoto.org
-Recent post 1: 
-Recent post 2: 
-Recent post 3: 
