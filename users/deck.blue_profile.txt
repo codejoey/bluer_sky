@@ -1,0 +1,12 @@
+DID: did:plc:w342borqxtyo2pul67ec2pwt
+Username: deck.blue
+Profile description: 3rd-party TweetDeck for Bluesky from 🇧🇷! Featuring columns, multi-account and scheduling!
+
+App: deck.blue
+Contact: hello@deck.blue
+Donate:
+https://patreon.com/deckblue
+https://ko-fi.com/deck_blue
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

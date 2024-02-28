@@ -1,0 +1,6 @@
+DID: did:plc:bdkc5h2smfxl266ptjhztd27
+Username: Bob Nystrom
+Profile description: Working on Dart at Google, ex-game dev at EA, wrote "Game Programming Patterns" and "Crafting Interpreters", dad, husband. http://stuffwithstuff.com/
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

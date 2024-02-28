@@ -6,3 +6,6 @@ greenlet==1.1.0
 langchain
 chromadb 
 sentence-transformers
+dotenv
+responses
+openai

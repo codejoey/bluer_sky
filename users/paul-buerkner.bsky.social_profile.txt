@@ -1,0 +1,12 @@
+DID: did:plc:rnbjzfx5i223srtxj5txsjjb
+Username: Paul Bürkner
+Profile description: Full Professor for Computational Statistics at TU Dortmund University
+
+Scientist | Statistician | Bayesian | Author of brms | Member of the Stan and BayesFlow development teams
+
+Website: https://paul-buerkner.github.io
+
+Opinions are my own
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

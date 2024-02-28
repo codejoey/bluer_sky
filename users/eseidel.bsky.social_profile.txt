@@ -1,0 +1,6 @@
+DID: did:plc:qibza37i7hkd7phfymqief2l
+Username: Eric Seidel
+Profile description: leading shorebird.dev, formerly flutter.dev.  Mostly tweet about Flutter.
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

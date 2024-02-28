@@ -1,0 +1,10 @@
+DID: did:plc:fxtrnldcaq3c5btgnhbxtkgf
+Username: Tomasz Woźniak
+Profile description: I'm a Bayesian econometrician developing methodology for empirical macroeconomic analyses and programming in R and cpp using Rcpp. Try my bsvars package! @bsvars.bsky.social
+
+https://bsvars.github.io/bsvars/
+
+#Bayesian #econometrics #timeseries
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

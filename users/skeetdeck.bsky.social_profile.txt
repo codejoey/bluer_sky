@@ -1,0 +1,9 @@
+DID: did:plc:jf3sedw7pi7yw52dpvz3plo3
+Username: Skeetdeck
+Profile description: alternative Bluesky web client by @mary.my.id 🐇🏳️‍⚧️
+skeetdeck.pages.dev
+
+donate: https://mary.my.id/donate
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 

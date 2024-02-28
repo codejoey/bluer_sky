@@ -1,0 +1,8 @@
+DID: did:plc:lmsyovv5ujdugy5bbkbty3dg
+Username: Sky․app
+Profile description: Sky․app is a great way to use Bluesky Social on macOS, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.
+
+https://github.com/jcsalterego/Sky.app
+Recent post 1: 
+Recent post 2: 
+Recent post 3: 
